@@ -1,2 +1,7 @@
-# demo-estudio-juridico-iriarte-y-asociados
-Demo web para Estudio Jurídico Iriarte y Asociados — diseñada por eterlab.
+# Estudio Jurídico Iriarte y Asociados
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
